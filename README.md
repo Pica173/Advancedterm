@@ -1,8 +1,8 @@
 # Rese（リーズ）
 概要説明
-・飲食店予約サービス
-・会員登録して、飲食店の予約ができる
-・お気に入り登録も可能　
+- 会員登録、お気に入り機能を持つ飲食店予約サービス
+<img width="1399" alt="スクリーンショット 2022-12-17 2 40 08" src="https://user-images.githubusercontent.com/106429578/208214615-842106df-bf85-4046-8d86-928aeb49c162.png">
+
 
 ## 作成した目的
 模擬案件の為。
@@ -25,12 +25,14 @@
 - 店名で検索する
 
 ## 使用技術（実行環境）
-- Laravel　8.83.23
+- Laravel　8.83.25
 
 ## テーブル設計
+<img width="645" alt="スクリーンショット 2022-12-17 2 33 48" src="https://user-images.githubusercontent.com/106429578/208214624-f19fc8ac-0d63-4d11-9185-0999375eb306.png">
+<img width="640" alt="スクリーンショット 2022-12-17 2 36 47" src="https://user-images.githubusercontent.com/106429578/208214628-29262fba-e936-43ab-9798-537472910f17.png">
 
 
 ## 環境構築
-データベース名：advanceddb_simulatedpj
-シーディングコマンド：　php artisan db:seed
+- データベース名：advanceddb_simulatedpj
+- シーディングコマンド：　php artisan db:seed
 
