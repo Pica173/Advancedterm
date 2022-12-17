@@ -2,15 +2,9 @@
 
 namespace App\Http\Controllers;
 
-use App\Models\Area;
-use App\Models\Genre;
-use App\Models\Shop;
 use App\Models\Favorite;
 use App\Models\Reservation;
-use App\Models\User;
 use Illuminate\Support\Facades\Auth;
-
-use Illuminate\Http\Request;
 
 class FavoriteController extends Controller
 {
