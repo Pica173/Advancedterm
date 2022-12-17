@@ -28,7 +28,7 @@
 - Laravel　8.83.25
 
 ## テーブル設計
-<img width="645" alt="スクリーンショット 2022-12-17 2 33 48" src="https://user-images.githubusercontent.com/106429578/208214624-f19fc8ac-0d63-4d11-9185-0999375eb306.png">
+<img width="670" alt="スクリーンショット 2022-12-17 9 59 08" src="https://user-images.githubusercontent.com/106429578/208214773-6f0a2378-5ff5-483d-9f36-5cbf6229c59b.png">
 <img width="640" alt="スクリーンショット 2022-12-17 2 36 47" src="https://user-images.githubusercontent.com/106429578/208214628-29262fba-e936-43ab-9798-537472910f17.png">
 
 
